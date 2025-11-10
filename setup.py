@@ -35,7 +35,7 @@ setup(
     keywords=["image", "quality", "reference", "reference-less"],
     install_requires=[
         "Pillow>=5.2.0",
-        "numpy>=1.16.4",
+        "numpy==1.25.2",
         "scipy>=1.3.0",
         "scikit-image>=0.15.0",
         "libsvm>=3.23.0",
